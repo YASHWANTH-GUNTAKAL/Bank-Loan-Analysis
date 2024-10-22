@@ -26,6 +26,7 @@ Banks analyse loan data for several critical reasons:
 10) Customer Retention: Banks use data analysis to identify opportunities for retaining existing customers, such as offering loan refinancing options or additional financial products.
 
     ** ALL KEY PERFORMANCE INDICATORS REQUIREMENT **
+    https://github.com/YASHWANTH-GUNTAKAL/Bank-Loan-Analysis/blob/main/Bank%20Loan%20PPT%20Power%20BI%20(1).pptx
     
 
     ## Technical  Skills:
