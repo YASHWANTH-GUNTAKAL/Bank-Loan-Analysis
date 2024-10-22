@@ -25,5 +25,21 @@ Banks analyse loan data for several critical reasons:
 
 10) Customer Retention: Banks use data analysis to identify opportunities for retaining existing customers, such as offering loan refinancing options or additional financial products.
 
+    ** ALL KEY PERFORMANCE INDICATORS REQUIREMENT **
+    
+
+    ## Technical  Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]		Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+
+
+    ## Soft Skills:
+- [x]	Refined understanding of Bank Loan Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Developing a systematic approach to devising a report building plan.
+
   
 
