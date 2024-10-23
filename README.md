@@ -31,7 +31,7 @@ Banks analyse loan data for several critical reasons:
 
     ## Technical  Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]		Establishing data model relationships with Power Pivot.
+- [x]		Establishing data model relationships.
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
 
